@@ -1,3 +1,6 @@
 *.class
 bin/
 out/
+Conexao.java
+.vscode/
+lib/
